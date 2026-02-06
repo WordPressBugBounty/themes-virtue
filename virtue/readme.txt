@@ -48,6 +48,9 @@ developers of this theme.
 
 = Theme Name: Virtue =
 
+= Version 3.4.14 | 18th November 2025 =
+* Update: WC Templates
+
 = Version 3.4.13 | 19th May 2025 =
 * Update: WC Templates
 * Fix: Issue with text domain loading.

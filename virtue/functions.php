@@ -5,7 +5,7 @@
  * @package Virtue Theme
  */
 
-define( 'VIRTUE_VERSION', '3.4.13' );
+define( 'VIRTUE_VERSION', '3.4.14' );
 
 
 // New function for text domain
