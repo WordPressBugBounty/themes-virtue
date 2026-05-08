@@ -48,6 +48,10 @@ developers of this theme.
 
 = Theme Name: Virtue =
 
+= Version 3.4.15 | 4th May 2026 =
+* Update: WC Templates
+* Fix: Strengthen author box in social link title attributes
+
 = Version 3.4.14 | 18th November 2025 =
 * Update: WC Templates
 
